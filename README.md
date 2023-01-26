@@ -40,7 +40,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/pratik21pimpalkar/pratik21pimpalkar/blob/output/snake.svg" alt="Snake animation" /> -->
 
-![snake gif](https://github.com/pratik21pimpalkar/pratik21pimpalkar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pratik21pimpalkar/pratik21pimpalkar/blob/output/github-contribution-grid-snake.svg)
 
 
 
